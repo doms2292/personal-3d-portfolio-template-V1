@@ -1,5 +1,75 @@
 {
-  "name": "Naboraj Sarkar - Official Authority Node",
-  "description": "The official digital identity of Naboraj Sarkar. High-performance portal showcasing code, automation, and creative branding across Indian and global tech ecosystems.",
-  "requestFramePermissions": []
+  "identity": {
+    "fullName": "Naboraj Sarkar",
+    "displayName": "Naboraj Sarkar",
+    "title": "Student, Creator & Tech Learner",
+    "tagline": "Building digital identity through code, creativity, and consistency",
+    "location": "India",
+    "nationality": "Indian"
+  },
+
+  "branding": {
+    "siteName": "Naboraj Sarkar — Official Website",
+    "domain": "https://naboraj-sarkar.vercel.app",
+    "description": "The official digital identity of Naboraj Sarkar, a student, creator, and tech learner from India. Showcasing projects, skills, automation, creative work, and verified online presence.",
+    "language": "en",
+    "themeColor": "#0bbfa6",
+    "logoSource": "https://github.com/naborajs.png"
+  },
+
+  "seo": {
+    "metaTitle": "Naboraj Sarkar | Official Website",
+    "metaDescription": "Official website of Naboraj Sarkar — student, creator, and tech learner from India. Explore projects, skills, social profiles, and digital journey.",
+    "keywords": [
+      "Naboraj Sarkar",
+      "Who is Naboraj Sarkar",
+      "Naboraj Sarkar official website",
+      "Naboraj Sarkar GitHub",
+      "Naboraj Sarkar student",
+      "Naboraj Sarkar India",
+      "Naboraj Sarkar portfolio"
+    ],
+    "robots": "index, follow",
+    "canonical": "https://naboraj-sarkar.vercel.app"
+  },
+
+  "socials": {
+    "github": "https://github.com/naborajs",
+    "linkedin": "https://linkedin.com/in/naboraj-sarkar",
+    "instagram": "https://instagram.com/naborajs",
+    "youtube": "https://youtube.com/@Nishant_sarkar",
+    "twitter": "https://x.com/NSGAMMING699",
+    "mainWebsite": "https://nsgamming.xyz"
+  },
+
+  "openGraph": {
+    "type": "website",
+    "title": "Naboraj Sarkar — Official Digital Identity",
+    "description": "Discover the official digital identity of Naboraj Sarkar, featuring projects, skills, and verified social presence.",
+    "image": "https://github.com/naborajs.png"
+  },
+
+  "schema": {
+    "entityType": "Person",
+    "name": "Naboraj Sarkar",
+    "sameAs": [
+      "https://github.com/naborajs",
+      "https://linkedin.com/in/naboraj-sarkar",
+      "https://instagram.com/naborajs",
+      "https://youtube.com/@Nishant_sarkar",
+      "https://x.com/NSGAMMING699",
+      "https://nsgamming.xyz"
+    ]
+  },
+
+  "chatbotContext": {
+    "enabled": true,
+    "role": "Personal Digital Assistant",
+    "tone": "Friendly, clear, realistic, non-robotic",
+    "fallbackResponse": "I don’t have that information yet, but you can explore Naboraj Sarkar’s official links or projects for more details."
+  },
+
+  "permissions": {
+    "requestFramePermissions": []
+  }
 }
