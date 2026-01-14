@@ -34,7 +34,7 @@ const CONFIG = {
     name: "Naboraj Sarkar",
     tagline: "Systems Architect & Tech Innovator",
     location: "West Bengal, India",
-    logo: "logo.png",
+    logo: "./logo.png",
     repo: "https://github.com/naborajs/personal-3d-portfolio-template/tree/main"
   },
   socials: [
